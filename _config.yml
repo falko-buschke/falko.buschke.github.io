@@ -1,4 +1,4 @@
-s# Site settings
+# Site settings
 title: Falko Buschke
 email: falko.buschke@gmail.com
 description: > Macroecologist and conservation biologist.
@@ -13,4 +13,4 @@ github_username:  falko-buschke
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
