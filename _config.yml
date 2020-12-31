@@ -14,4 +14,4 @@ github_username:  falko-buschke
 
 # Build settings
 markdown: kramdown
-theme: cayman
+theme: jekyll-theme-cayman
