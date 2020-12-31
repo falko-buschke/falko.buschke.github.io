@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 linkedin_username: falkobuschke
-googel-scholar: https://scholar.google.com/citations?hl=en&user=_7IuV9MAAAAJ&view_op=list_works&sortby=pubdate 
+google-scholar: https://scholar.google.com/citations?hl=en&user=_7IuV9MAAAAJ&view_op=list_works&sortby=pubdate 
 github_username:  falko-buschke
 
 # Build settings
