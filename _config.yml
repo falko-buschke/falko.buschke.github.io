@@ -5,6 +5,7 @@ description: Macroecologist and conservation biologist
 # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+logo: /img/Full logo.png
 
 linkedin_username: falkobuschke
 google_scholar: h7IuV9MAAAAJ&view_op=list_works&sortby=pubdate 
