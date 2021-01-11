@@ -7,10 +7,10 @@ Post-normal science is used when facts are uncertain, stakes are high, decisions
 
 ![](PNS.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8rjfM_LlYZM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 * Jarvis, R., Borrelle, S., Forsdick, N., Perez-Hammerle, K., Dubois, N., Recalde-Salas, A., **Buschke, F.**, Rose, D., Archibald, C., Gallo, J., Mair, L., Kadykalo, A., Shanahan, D. & Prohaska, B. (2020) Navigating spaces between conservation research and practice: are we making progress? *Ecological Solutions and Evidence*, **1**, e12028. ([Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/2688-8319.12028))
 * **Buschke, F.T.**, Botts, E. & Sinclair, S.P. (2019) Post-normal conservation science fills the space between research, policy and implementation. *Conservation Science and Practice*,**1**, e73. ([Link](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.73))
+
+<iframe width="448" height="252" src="https://www.youtube.com/embed/8rjfM_LlYZM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Conservation entrepreneurship
