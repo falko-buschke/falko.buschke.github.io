@@ -8,7 +8,7 @@ My PhD research studied the geographic distribution data of 4,423 species of amp
 
 ![](geb.png)
 
-More recently, I am studying whether Modern Coexistence Theory can be applied at large spatial scales. This entails combining trait data of African mammals herbivores, with dietary infromation from stable isotopes to quantify whether niche differentiation is sufficient to allow for coexistence between competing species.
+More recently, I am studying whether Modern Coexistence Theory can be applied at large spatial scales. This entails combining trait data of African mammals herbivores, with dietary information from stable isotopes to quantify whether niche differentiation is sufficient to allow for coexistence between competing species.
 
 * Malindie, S., **Buschke, F.T**. & Codron, D. (2020) Carbon isotope differences between grassland and savanna herbivores reveal environmentally driven rather than phylogentically conserved niches. *Journal of Zoology*, **311**, 116-125. ([Link](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/jzo.12762))
 * **Buschke, F.T.**, Brendonck, L. & Vanschoenwinkel, B. (2018) The conservation status of African vertebrates is unrelated to environmental
