@@ -24,7 +24,7 @@ We showed that the best economic and conservation outcomes occured by combining 
 ![The change in the economic value of ecosystem service for scenarios of offsetting and protected area expansion.](Ecosystem_services.png)
 
 ## Spatial and temporal dynamics and acheiving no net loss
-No net loss assumes that the losses of biodiversity at one locality can be compensated for by equivalent gains somewhere else. But biodiversity is not always commensurable. My work, in collaboration with [Sam Sinclair fo Biodiversify](https://www.biodiversify.org/about), demonstrated how the geographic configuration and temporal feedbacks of biodiversity can jeopardise no net loss outcomes, even when mitigation is implemented perfectly.
+No net loss assumes that the losses of biodiversity at one locality can be compensated for by equivalent gains somewhere else. But biodiversity is not always commensurable. My work, in collaboration with [Sam Sinclair of Biodiversify](https://www.biodiversify.org/about), demonstrated how the geographic configuration and temporal feedbacks of biodiversity can jeopardise no net loss outcomes, even when mitigation is implemented perfectly.
 
 * **Buschke, F.T.** & Sinclair, S.P. (2019) Adding ecological and evolutionary processes to biodiversity offset models using neutral theory. *Diversity and Distributions*, **25**, 1351-1361. ([Link](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12943))
 * **Buschke, F.T.** (2017) Biodiversity trajectories and the time needed to achieve no net loss through averted-loss biodiversity offsets. *Ecology Modelling*, **352**, 54-57. ([Link](https://www.sciencedirect.com/science/article/pii/S0304380016304719))
