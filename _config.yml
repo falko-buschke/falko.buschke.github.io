@@ -14,4 +14,23 @@ google_analytics: G-C4D570DNMX
 
 # Build settings
 markdown: kramdown
-theme: jekyll-whiteglass #jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+
+theme: jekyll-whiteglass
+plugins:
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
+
+permalink: /:year/:month/:day/:title/
+paginate_path: /posts/:num/
+paginate: 5
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
