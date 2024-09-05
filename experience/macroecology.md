@@ -1,4 +1,4 @@
-# Macroecology of African vertebrates2
+# Macroecology of African vertebrates
 
 Macroecology is the study of the emergent ecological properties at large spatial and temporal scales. 
 
