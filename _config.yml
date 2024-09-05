@@ -15,5 +15,5 @@ google_analytics: G-C4D570DNMX
 # Build settings
 markdown: kramdown
 # theme: jekyll-theme-minimal
-remote_theme: jekyll/minima
-#theme: minima
+#remote_theme: jekyll/minima
+theme: minima
