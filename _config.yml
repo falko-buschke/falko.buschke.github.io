@@ -14,7 +14,7 @@ google_analytics: G-C4D570DNMX
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-time-tactile
+theme: jekyll-theme-tactile
 # minima
 #remote_theme: jekyll/minima
 
