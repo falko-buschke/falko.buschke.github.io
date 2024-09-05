@@ -1,8 +1,3 @@
----
-layout: post
-title: "Some articles are just so short that we have to make the footer stick"
-categories: misc
----
 # Climate change impacts on freshwater ecosystems
 
 Aquatic ecosystems are particularly susceptible to climate change. In collaboration with [Tom Pinceel at KU Leuven](https://bio.kuleuven.be/eeb/laeec/whoiswho/00055442) and [Bram Vanschoenwinkel at Vrije Universiteit Brussel](https://insularecology.com/), I've been involved with several studies on the effect of climate change of freshwater ecosystems.
