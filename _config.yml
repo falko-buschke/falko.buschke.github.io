@@ -13,5 +13,5 @@ github_username:  falko-buschke
 google_analytics: G-C4D570DNMX
 
 # Build settings
-#markdown: kramdown
-theme: jekyll-theme-architect
+markdown: kramdown
+theme: jekyll-theme-minimal
